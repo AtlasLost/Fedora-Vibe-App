@@ -1,0 +1,5 @@
+{
+  "name": "Fedora Hardening Script Generator",
+  "description": "An AI-powered tool to generate custom bash scripts for hardening Fedora Linux systems against common vulnerabilities and security threats.",
+  "requestFramePermissions": []
+}
